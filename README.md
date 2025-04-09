@@ -23,6 +23,8 @@
 - 3) 환전할 국가 입력 ex) KRW를 USD로 환전 -> USD
 - 4) 환전 금액 입력 ex) USD로 $500 환전할 것이다. -> "500" 입력
 
+## 4. 주의사항
+- 해당 코드틑 "openexchangerates"의 API를 기반으로 하기 때문에 `.env`파일작성 및 API key는 실행자가 직접 작성할 것
 
 ### 환율 정보 출처
 `https://openexchangerates.org/`
