@@ -1,4 +1,4 @@
-# USD 또는 KRW 환전 프로그램
+# 환전 프로그램
 
 ## 1. 기준 통화 (중 택1)
 - USD
@@ -29,4 +29,8 @@
 ### 환율 정보 출처
 `https://openexchangerates.org/`
 
-
+### 필요 라이브러리
+- os
+- dotenv
+- requests
+- json
